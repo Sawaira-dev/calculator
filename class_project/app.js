@@ -18,4 +18,3 @@ function getAns(){
     console.log(document.getElementById('result').value)
 }
 
-function 
